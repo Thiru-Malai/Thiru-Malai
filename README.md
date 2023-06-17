@@ -2,7 +2,7 @@
 - 😃 I am a Software Developer and a Budding Programmer.
 - 🌱 Learning and growing.
 - 🧩 I love to solve problems.
-- 🖥️ I love to to develop new things. 
+- 🖥️ I love to develop new things. 
 
 </br>
 
