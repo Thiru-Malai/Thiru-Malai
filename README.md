@@ -21,5 +21,5 @@
   </tr>
 </table>
 <p align="center">
-<img align="center" src="https://skillicons.dev/icons?i=cpp,python,java,nodejs,html,javascript,php,mysql,mongodb,firebase,linux,figma&perline=6" alt="Skills"></td>
+<img align="center" src="https://skillicons.dev/icons?i=cpp,python,java,nodejs,html,javascript,php,mysql,mongodb,firebase,linux,figma,docker,react&perline=8" alt="Skills"></td>
 </p>
